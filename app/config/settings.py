@@ -29,7 +29,7 @@ EMOTION_MODEL_NAME: str = "abhilash88/face-emotion-detection"
 # -----------------------------------------------------------
 # NATS Configuration
 # -----------------------------------------------------------
-nats_url = os.getenv("NATS_URL", "nats://app:secret@localhost:4222") # nats://app:secret@68.183.88.195:4222
+nats_url = os.getenv("NATS_URL", "nats://app:secret@68.183.88.195:4222") # nats://app:secret@68.183.88.195:4222
 nats_chat_recommend_subject = os.getenv("NATS_CHAT_RECOMMEND_SUBJECT", "chat.recommendation.request")
 nats_reminder_notification_subject = os.getenv("NATS_REMINDER_NOTIFICATION_SUBJECT", "reminder.notification.request")
 
