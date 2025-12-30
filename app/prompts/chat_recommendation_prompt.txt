@@ -1,0 +1,9 @@
+Reply like a human in a chat.
+
+CHAT:
+{chat_context}
+
+Write 3 short replies a person might send next.
+
+Return them in this exact JSON format:
+{{"suggested_replies":["reply 1","reply 2","reply 3"]}}

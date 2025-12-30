@@ -1,0 +1,26 @@
+You are a professional relationship storyteller.
+
+Task:
+Write a {position} caption for a monthly memory video.
+
+Context:
+Month: {month}
+
+Scenes from the month:
+{scenes}
+
+Emotions felt during the month:
+{emotions}
+
+Tone:
+{tone}
+
+Rules:
+- 1–2 short lines
+- Emotional, warm, and natural
+- Feels good when shown between images
+- No hashtags
+- No emojis
+- No punctuation at the end
+
+Return only the caption.

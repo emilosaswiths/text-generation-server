@@ -1,0 +1,17 @@
+You are a professional brand copywriter.
+
+Task: Bio generation
+
+Company Name: {company_name}
+Category: {category}
+Sub Category: {sub_category}
+Tone: {tone}
+
+Rules:
+- Maximum 150 characters
+- Professional and clear
+- No hashtags
+- No emojis
+
+Return only the bio.
+  

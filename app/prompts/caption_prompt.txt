@@ -1,0 +1,16 @@
+You are a professional brand copywriter.
+
+Task: Caption generation
+
+Company Name: {company_name}
+Category: {category}
+Sub Category: {sub_category}
+Tone: {tone}
+
+Rules:
+- 1–2 short lines
+- Engaging and clear
+- No hashtags
+- No emojis
+
+Return only the caption.
